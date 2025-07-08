@@ -42,7 +42,7 @@ An end-to-end data engineering pipeline on Microsoft Azure leveraging the public
 
 ### Phase 2: Silver (Cleansing & Enrichment)
 
-![img2](https://private-user-images.githubusercontent.com/121890747/453961432-b53605ce-25fc-49b1-8275-8ca2972cd7c6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5MDE3NzYsIm5iZiI6MTc0OTkwMTQ3NiwicGF0aCI6Ii8xMjE4OTA3NDcvNDUzOTYxNDMyLWI1MzYwNWNlLTI1ZmMtNDliMS04Mjc1LThjYTI5NzJjZDdjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNFQxMTQ0MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYzQxM2IzNTZlZGYwZTRkMTNhMzM2ODNmZTcwYThlY2UwMDc2Zjg5ODNiMzdlYjBhMTEwZmI1MzFlZWU1N2JjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oSmzgBzVxihkFwmw-KssO4YQCdlAx-NbAmrIxbDJZIY)
+![img2](https://github.com/jotstolu/Azure-Data-Engineering-End--to-End-Project/blob/main/images/silver_notebook_databricks_job.png?raw=true)
 
 
 **Compute**  
